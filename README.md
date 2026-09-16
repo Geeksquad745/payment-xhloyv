@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · UGVkeQxc -->
-## Notification 1/2
-Round: Round 1
-To: perkinscm@msn.com, perla021469@yahoo.com
-At: 2026-09-16 19:39:58
-Id: UGVkeQxc
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: newf96@hotmail.com, neysa@hotmail.com
+At: 2026-09-16 19:40:12
+Id: HjFelGr1
